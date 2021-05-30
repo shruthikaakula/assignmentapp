@@ -1,0 +1,96 @@
+{
+   "users": [
+    {
+        "id":1,
+        "email":"marysturt@gmail.com",
+        "name":"Maru Surt",
+        "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHT4G0UNsu5Ffrzq29wTsswpq-ejzyK4inQ&usqp=CAU",
+        "address":"kals,scotlan ",
+        "profession" : "queen",
+        "mobileno" : "9037251739"
+     },
+     {
+        "id":2,
+        "email":"fransis@gmail.com",
+        "name":"Fransis de Valvua",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsixtwNTYP9uLecj14PTMYnPZlIAWW9Gqweg&usqp=CAU",
+        "address":"Royal pales,France",
+        "profession":"King",
+        "mobileno" :"6868668868"
+     },
+     {
+        "id":3,
+        "email":"cathrin@gmail.com",
+        "name":"Cathrin de Medichi",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1H8AyglTe73PZ_KVKV_4Glz-XQ-GOv7BaA&usqp=CAU",
+        "address":"Royal pales, France",
+        "profession":"Queen mother",
+        "mobileno" :"6898768867"
+     },
+    
+     {
+        "id":4,
+        "email":"bash@gmail.com",
+        "name":"Bash Stebastian",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfCcCMbY8l1dhVzagPtv7ghhoJabGZGcdaQ&usqp=CAU",
+        "address":"kajde village, France",
+        "profession":"King Deputie",
+        "mobileno" :"915434589"
+     },
+     {
+        "id":5,
+        "email":"narsies@gmail.com",
+        "name":"Stephan Narsies",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQ_bWT6r9Jo3bFK2QBFLLceOQRtY9JuT0aQ&usqp=CAU",
+        "address":"Raide village,France",
+        "profession":"Chanceler",
+        "mobileno" :"907690589"
+     },
+    
+     {
+        "id":6,
+        "email":"greer@gmail.com",
+        "name":"Lady Greer",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO40HseqhBCDmkQh4J1vmXFlz2V5Nm3pzzIw&usqp=CAU",
+        "address":"Renuhouse,france",
+        "profession":"Business Woman",
+        "mobileno" :"954345678"
+     },
+     {
+        "id":7,
+        "email":"laith@gmail.com",
+        "name":"Laith Beyard",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCDcSaOgYSQ5qoxlFn_V-UmgzvMBESKubRg&usqp=CAU",
+        "address":"Kings castil,france",
+        "profession":"Kings guard",
+        "mobileno" :"6875445678"
+     },
+     {
+        "id":8,
+        "email":"claude@gmail.com",
+        "name":"Claude de Valvua",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHuIoVvQgvA05nQvpJ6fvvsqbMW6QHTZl14w&usqp=CAU",
+        "address":"Royal pales ,France",
+        "profession":"Princes",
+        "mobileno" :"6134567823"
+     },
+     {
+        "id":9,
+        "email":"kshore@gmail.com",
+        "name":"Louis Conde",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOalwTxQiv99Lb-0ltftj1hx7U42vnJ4jIxw&usqp=CAU",
+        "address":"Vendôme, France",
+        "profession":"Prince",
+        "mobileno" :"976543256"
+     },
+     {
+        "id":10,
+        "email":"nostradomus@gmail.com",
+        "name":"Nostradamus",
+        "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZVUbmwCV1NcnaEJucSoMuvwU7_fBRe8pUQ&usqp=CAU",
+        "address":"Hase village,France",
+        "profession":"Court Seerr",
+        "mobileno" :"9844949849"
+     }  
+    ]
+}

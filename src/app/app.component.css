@@ -1,0 +1,23 @@
+a{
+    padding: 10px;
+    margin: 4px;
+    
+    }
+
+.active{
+    font-weight: bold;
+}
+
+.active:hover{
+    background-color: rgb(221, 147, 147);
+    color: pink;
+    border-radius: 5px;
+}
+
+#lin{
+    margin-top: 700px;
+}
+
+#shl{
+    background-color: rgb(156, 8, 8);
+}

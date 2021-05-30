@@ -1,0 +1,18 @@
+#f{
+    font-weight: bold;
+    color: rgb(224, 12, 12);
+    
+}
+
+input:hover{
+    border: 3px ;
+    background-color: rgb(216, 17, 17);
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 3px 7px rgb(238, 223, 228);
+}
+
+#m{
+    background-color: rgb(196, 13, 13);
+    color: rgb(223, 167, 186);
+    font-weight: bold;
+}
